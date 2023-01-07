@@ -1,4 +1,5 @@
-# Made a Movie app in Vanilla Javascript
+# Made a Simple Movie app with Vanilla Javascript, CSS and HTML 
+#Fetch API #Movie buff #newbie #static Files #UI part #Front-End 
 
 how to make a Movie App in HTML, CSS, and Vanilla Javascript. 
 It will use data from The Movie Database (TMDB) and display it on the user's screen. When you hover over a movie, you will see the details. You can also see the amount of votes of each movie. The app will include a search bar so the user can search for any movie. If you would like more fun projects, please follow me.
