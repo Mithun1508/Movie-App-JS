@@ -26,7 +26,6 @@ Let's get started!
     <script src="script.js"></script>
   </body>
   
-  
 # Now let's use CSS to make the app look better:
 body {
   font-family: sans-serif;
@@ -122,17 +121,14 @@ movie-info span.red {
   transform: translateY(0);
   
 # Next let's add Javascript.
-
- Adding your API key from TMDB - you will need to signup to TMDB for the API key:
+Adding your API key from TMDB - you will need to signup to TMDB for the API key:
         const APIURL =
   "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=YOUR_API_KEY&page=1";
 const IMGPATH = "https://image.tmdb.org/t/p/w1280";
 const SEARCHAPI =
   "https://api.themoviedb.org/3/search/movie?&api_key=YOUR_API_KEY&query=";
-  
-# Remember to replace YOUR_API_KEY with your api key.
+Remember to replace YOUR_API_KEY with your api key.
 Next let's add data display:
-
 const main = document.getElementById("main");
 const form = document.getElementById("form");
 const search = document.getElementById("search");
@@ -183,8 +179,7 @@ const getClassByRate = (vote) => {
     return "red";
   }
 };
-
-# Lastly, the search bar functionality:
+Lastly, the search bar functionality:
 form.addEventListener("submit", (e) => {
   e.preventDefault();
   const searchTerm = search.value;
@@ -194,4 +189,5 @@ form.addEventListener("submit", (e) => {
     search.value = "";
   }
 });
+
 That's it! You have now made a good-looking and working Movie App.
