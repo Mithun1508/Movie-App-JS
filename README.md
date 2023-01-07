@@ -6,6 +6,7 @@ Let's get started!
 
 
 # First we are going to create the basic user interface with HTML:
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -25,6 +26,7 @@ Let's get started!
     <!--linking the javascript file-->
     <script src="script.js"></script>
   </body>
+  
   
 # Now let's use CSS to make the app look better:
 body {
