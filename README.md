@@ -193,4 +193,7 @@ form.addEventListener("submit", (e) => {
   }
 });
 
-That's it! You have now made a good-looking and working Movie App.
+That's it! You have now made a good-looking and working Movie App. Happy CODING !! 
+
+# CHECK OUT THE LIVE DEMO ...!!
+https://lighthearted-dragon-9a218d.netlify.app/
