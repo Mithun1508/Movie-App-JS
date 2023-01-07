@@ -197,3 +197,6 @@ That's it! You have now made a good-looking and working Movie App. Happy CODING 
 
 # CHECK OUT THE LIVE DEMO ...!!
 https://lighthearted-dragon-9a218d.netlify.app/
+
+
+![Screenshot (15)](https://user-images.githubusercontent.com/93249038/211149358-57f42b46-9dd2-4a17-892f-bb297f1e63fd.png)
